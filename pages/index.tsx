@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <div className="flex justify-center items-center space-y-7 flex-col  w-full h-screen">
         <div className="text-3xl font-bold">
-          Techinnover Test Educational Dashboard
+          Techinnover(Test) Educational Platform
         </div>
         <div className="space-y-4 flex flex-col items-center">
           <Link href={'/login'}>
